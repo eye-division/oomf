@@ -1,6 +1,6 @@
 body {
 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size: 12px;
+	font-size: 16px;
 	color: #FFFFFF;
 	background-color:#000000;
 
@@ -13,6 +13,9 @@ td {
 
 .hideme { display:none; }
 
+h1, h2, p {
+	margin: 2rem;
+}
 th {
 	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: 12px;
